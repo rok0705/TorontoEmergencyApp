@@ -1,0 +1,197 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/test"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/setting_bg"
+    android:orientation="vertical"
+    android:focusable="true"
+	android:focusableInTouchMode="true"
+    android:weightSum="1" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:layout_weight="0.07"
+        
+        android:layout_height="0dp" >
+        
+
+    <ImageView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerInside"
+        android:src="@drawable/profile_name" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+       
+        android:layout_weight="0.1"
+        android:layout_height="0dp" >
+
+    
+
+            <EditText
+                android:id="@+id/txtEdit_userName"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/name"
+                android:drawablePadding="8dp"
+                android:paddingLeft="180dp"
+                android:paddingRight="10dp"
+                android:singleLine="true" />
+                
+            
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:layout_weight="0.10"
+        android:paddingBottom="4.33px"
+        android:layout_height="0dp" >
+        <ImageView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerInside"
+        android:src="@drawable/contact_name" />
+
+
+    </LinearLayout>
+    
+   <LinearLayout
+        android:layout_width="fill_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:layout_weight="0.3"
+        android:paddingBottom="24.33px"
+        android:layout_height="0dp" >
+        
+        <EditText
+            android:id="@+id/txtEdit_emergency1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.33"
+            android:background="@drawable/contact1"
+            android:drawablePadding="8dp"
+            android:paddingLeft="180dp"
+            android:paddingRight="10dp"
+            android:textColor="#FFF"
+            android:singleLine="true" >
+                
+            </EditText>
+
+            <EditText
+	            android:layout_weight="0.33"
+                android:background="@drawable/contact2"
+                android:id="@+id/txtEdit_emergency2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="8dp"
+                android:paddingLeft="180dp"
+	            android:textColor="#FFF"
+                android:paddingRight="10dp"
+                android:singleLine="true" />
+
+            <EditText
+                android:textColor="#FFF"
+	            android:layout_weight="0.33"
+                android:background="@drawable/contact3"
+                android:id="@+id/txtEdit_emergency3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="8dp"
+                android:paddingLeft="180dp"
+                android:paddingRight="10dp"
+                android:singleLine="true" />
+            
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:layout_weight="0.07"
+        android:layout_height="0dp" >
+        <ImageView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerInside"
+        android:src="@drawable/optional" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:layout_weight="0.2"
+        android:layout_height="0dp" >
+        
+		<EditText
+            android:id="@+id/txtEdit_ohip"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ohip"
+            android:drawablePadding="8dp"
+            android:paddingLeft="180dp"
+            android:layout_weight="0.5"
+            android:textColor="#FFF"
+            android:paddingRight="10dp"
+            android:singleLine="true" />
+
+		
+		<EditText
+            android:textColor="#FFF"
+            android:layout_weight="0.5"
+            android:id="@+id/txtEdit_blood"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+          	android:background="@drawable/bloodtype"
+            android:drawablePadding="8dp"
+            android:paddingLeft="270dp"
+            android:paddingRight="10dp"
+            
+            android:singleLine="true" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:layout_weight="0.11"
+        android:layout_height="0dp" >
+
+        <Button
+            android:id="@+id/btn_fake2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:visibility="invisible"
+            android:layout_weight="0.625"
+            
+            android:gravity="left" />
+        
+        <Button
+            android:id="@+id/setting_save"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_weight="0.375"
+            android:background="@drawable/save"
+            android:gravity="right" />
+        
+		
+    </LinearLayout>
+    
+
+</LinearLayout>

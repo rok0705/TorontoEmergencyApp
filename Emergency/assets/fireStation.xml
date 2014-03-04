@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Document><Folder><name>FIRE_FACILITY_WGS84</name>
+<Schema name="FIRE_FACILITY_WGS84" id="FIRE_FACILITY_WGS84">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="X" type="float"></SimpleField>
+	<SimpleField name="Y" type="float"></SimpleField>
+	<SimpleField name="LATITUDE" type="float"></SimpleField>
+	<SimpleField name="LONGITUDE" type="float"></SimpleField>
+	<SimpleField name="WARD_NAME" type="string"></SimpleField>
+	<SimpleField name="MUN_NAME" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>FIRE STATION 324</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 324</SimpleData>
+		<SimpleData name="ADDRESS">840 GERRARD ST E</SimpleData>
+		<SimpleData name="X">317403.6010</SimpleData>
+		<SimpleData name="Y">4836214.3750</SimpleData>
+		<SimpleData name="LATITUDE">43.66777526760</SimpleData>
+		<SimpleData name="LONGITUDE">-79.34352140680</SimpleData>
+		<SimpleData name="WARD_NAME">Toronto-Danforth (30)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1595244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.34352140678682,43.667775267615355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 325</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 325</SimpleData>
+		<SimpleData name="ADDRESS">475 DUNDAS ST E</SimpleData>
+		<SimpleData name="X">315684.4820</SimpleData>
+		<SimpleData name="Y">4835278.6020</SimpleData>
+		<SimpleData name="LATITUDE">43.65937911610</SimpleData>
+		<SimpleData name="LONGITUDE">-79.36485743200</SimpleData>
+		<SimpleData name="WARD_NAME">Toronto Centre-Rosedale (28)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">3030229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.364857432024124,43.659379116054254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 326</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 326</SimpleData>
+		<SimpleData name="ADDRESS">30 KNOX AVE</SimpleData>
+		<SimpleData name="X">318897.8420</SimpleData>
+		<SimpleData name="Y">4835525.4330</SimpleData>
+		<SimpleData name="LATITUDE">43.66154734550</SimpleData>
+		<SimpleData name="LONGITUDE">-79.32501050370</SimpleData>
+		<SimpleData name="WARD_NAME">Beaches-East York (32)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">3024003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.325010503731022,43.661547345534458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 331</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 331</SimpleData>
+		<SimpleData name="ADDRESS">33 CLAREMONT ST</SimpleData>
+		<SimpleData name="X">312062.9400</SimpleData>
+		<SimpleData name="Y">4833936.6400</SimpleData>
+		<SimpleData name="LATITUDE">43.64734470050</SimpleData>
+		<SimpleData name="LONGITUDE">-79.40977699080</SimpleData>
+		<SimpleData name="WARD_NAME">Trinity-Spadina (19)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1701571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.40977699081472,43.647344700498358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 332</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 332</SimpleData>
+		<SimpleData name="ADDRESS">260 ADELAIDE ST W</SimpleData>
+		<SimpleData name="X">313693.1110</SimpleData>
+		<SimpleData name="Y">4834046.4730</SimpleData>
+		<SimpleData name="LATITUDE">43.64831511930</SimpleData>
+		<SimpleData name="LONGITUDE">-79.38956742040</SimpleData>
+		<SimpleData name="WARD_NAME">Trinity-Spadina (20)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1558261</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.389567420399416,43.648315119348155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 333</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 333</SimpleData>
+		<SimpleData name="ADDRESS">207 FRONT ST E</SimpleData>
+		<SimpleData name="X">315581.2330</SimpleData>
+		<SimpleData name="Y">4834295.2760</SimpleData>
+		<SimpleData name="LATITUDE">43.65052939140</SimpleData>
+		<SimpleData name="LONGITUDE">-79.36615719070</SimpleData>
+		<SimpleData name="WARD_NAME">Toronto Centre-Rosedale (28)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">3119337</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.366157190701017,43.650529391419155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 334 HARBOURFRONT</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 334 HARBOURFRONT</SimpleData>
+		<SimpleData name="ADDRESS">339 QUEENS QUAY  W</SimpleData>
+		<SimpleData name="X">313771.4340</SimpleData>
+		<SimpleData name="Y">4832867.1050</SimpleData>
+		<SimpleData name="LATITUDE">43.63769888970</SimpleData>
+		<SimpleData name="LONGITUDE">-79.38861625240</SimpleData>
+		<SimpleData name="WARD_NAME">Trinity-Spadina (20)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2991854</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.388616252437316,43.637698889692857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 335</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 335</SimpleData>
+		<SimpleData name="ADDRESS">235 CIBOLA AVE</SimpleData>
+		<SimpleData name="X">316157.0290</SimpleData>
+		<SimpleData name="Y">4831505.5200</SimpleData>
+		<SimpleData name="LATITUDE">43.62540932660</SimpleData>
+		<SimpleData name="LONGITUDE">-79.35907772850</SimpleData>
+		<SimpleData name="WARD_NAME">Toronto Centre-Rosedale (28)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">3311729</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.359077728453713,43.625409326579955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 341</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 341</SimpleData>
+		<SimpleData name="ADDRESS">555 OAKWOOD AVE</SimpleData>
+		<SimpleData name="X">309528.7880</SimpleData>
+		<SimpleData name="Y">4839176.4260</SimpleData>
+		<SimpleData name="LATITUDE">43.69452889340</SimpleData>
+		<SimpleData name="LONGITUDE">-79.44114385090</SimpleData>
+		<SimpleData name="WARD_NAME">Eglinton-Lawrence (15)</SimpleData>
+		<SimpleData name="MUN_NAME">York</SimpleData>
+		<SimpleData name="OBJECTID">1961768</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.441143850907224,43.694528893394555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 342</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 342</SimpleData>
+		<SimpleData name="ADDRESS">106 ASCOT AVE</SimpleData>
+		<SimpleData name="X">308926.3340</SimpleData>
+		<SimpleData name="Y">4837492.4560</SimpleData>
+		<SimpleData name="LATITUDE">43.67937471800</SimpleData>
+		<SimpleData name="LONGITUDE">-79.44862951980</SimpleData>
+		<SimpleData name="WARD_NAME">Davenport (17)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1541526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.44862951983572,43.679374717969758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 343</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 343</SimpleData>
+		<SimpleData name="ADDRESS">65 HENDRICK AVE</SimpleData>
+		<SimpleData name="X">310367.4410</SimpleData>
+		<SimpleData name="Y">4837575.5980</SimpleData>
+		<SimpleData name="LATITUDE">43.68011373230</SimpleData>
+		<SimpleData name="LONGITUDE">-79.43075541410</SimpleData>
+		<SimpleData name="WARD_NAME">St. Paul's (21)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1543317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.430755414130317,43.680113732263855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 344</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 344</SimpleData>
+		<SimpleData name="ADDRESS">240 HOWLAND AVE</SimpleData>
+		<SimpleData name="X">311894.4530</SimpleData>
+		<SimpleData name="Y">4836783.4630</SimpleData>
+		<SimpleData name="LATITUDE">43.67297081570</SimpleData>
+		<SimpleData name="LONGITUDE">-79.41182737940</SimpleData>
+		<SimpleData name="WARD_NAME">Trinity-Spadina (20)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2997539</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.411827379429326,43.672970815651453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 345</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 345</SimpleData>
+		<SimpleData name="ADDRESS">1287 DUFFERIN ST</SimpleData>
+		<SimpleData name="X">309771.8310</SimpleData>
+		<SimpleData name="Y">4836163.7690</SimpleData>
+		<SimpleData name="LATITUDE">43.66740971120</SimpleData>
+		<SimpleData name="LONGITUDE">-79.43815592990</SimpleData>
+		<SimpleData name="WARD_NAME">Davenport (18)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1544070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.438155929851519,43.667409711190061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 346 CNE</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 346 CNE</SimpleData>
+		<SimpleData name="ADDRESS">90 QUEBEC ST</SimpleData>
+		<SimpleData name="X">311132.0720</SimpleData>
+		<SimpleData name="Y">4832418.2890</SimpleData>
+		<SimpleData name="LATITUDE">43.63368555620</SimpleData>
+		<SimpleData name="LONGITUDE">-79.42133296520</SimpleData>
+		<SimpleData name="WARD_NAME">Trinity-Spadina (19)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2841838</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.421332965243408,43.633685556244359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 411</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 411</SimpleData>
+		<SimpleData name="ADDRESS">75 TORYORK DR</SimpleData>
+		<SimpleData name="X">300825.1590</SimpleData>
+		<SimpleData name="Y">4845923.6730</SimpleData>
+		<SimpleData name="LATITUDE">43.75525826000</SimpleData>
+		<SimpleData name="LONGITUDE">-79.54916543700</SimpleData>
+		<SimpleData name="WARD_NAME">York West (7)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">3301795</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.549165436999914,43.755258259999948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 412</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 412</SimpleData>
+		<SimpleData name="ADDRESS">267 HUMBERLINE DR</SimpleData>
+		<SimpleData name="X">295308.5380</SimpleData>
+		<SimpleData name="Y">4844023.9980</SimpleData>
+		<SimpleData name="LATITUDE">43.73811687910</SimpleData>
+		<SimpleData name="LONGITUDE">-79.61764112100</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke North (1)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">1662239</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.617641121040208,43.73811687909155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 413</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 413</SimpleData>
+		<SimpleData name="ADDRESS">1549 ALBION RD</SimpleData>
+		<SimpleData name="X">297784.2210</SimpleData>
+		<SimpleData name="Y">4844255.4070</SimpleData>
+		<SimpleData name="LATITUDE">43.74022729030</SimpleData>
+		<SimpleData name="LONGITUDE">-79.58690915710</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke North (1)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">2546874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.586909157131132,43.740227290258055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 415</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 415</SimpleData>
+		<SimpleData name="ADDRESS">2120 KIPLING AVE</SimpleData>
+		<SimpleData name="X">299113.4640</SimpleData>
+		<SimpleData name="Y">4841772.1100</SimpleData>
+		<SimpleData name="LATITUDE">43.71788579780</SimpleData>
+		<SimpleData name="LONGITUDE">-79.57038007120</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke North (2)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">2750607</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.570380071182612,43.717885797792157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 421</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 421</SimpleData>
+		<SimpleData name="ADDRESS">6 LAMBTON AVE</SimpleData>
+		<SimpleData name="X">305969.1500</SimpleData>
+		<SimpleData name="Y">4838039.5110</SimpleData>
+		<SimpleData name="LATITUDE">43.68430897790</SimpleData>
+		<SimpleData name="LONGITUDE">-79.48530489630</SimpleData>
+		<SimpleData name="WARD_NAME">York South-Weston (11)</SimpleData>
+		<SimpleData name="MUN_NAME">York</SimpleData>
+		<SimpleData name="OBJECTID">2973435</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.485304896303219,43.684308977877855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 422</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 422</SimpleData>
+		<SimpleData name="ADDRESS">590 JANE ST</SimpleData>
+		<SimpleData name="X">305514.6670</SimpleData>
+		<SimpleData name="Y">4835828.8730</SimpleData>
+		<SimpleData name="LATITUDE">43.66441076620</SimpleData>
+		<SimpleData name="LONGITUDE">-79.49094443510</SimpleData>
+		<SimpleData name="WARD_NAME">Parkdale-High Park (13)</SimpleData>
+		<SimpleData name="MUN_NAME">York</SimpleData>
+		<SimpleData name="OBJECTID">1605282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.490944435136811,43.664410766244757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 423</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 423</SimpleData>
+		<SimpleData name="ADDRESS">358 KEELE ST</SimpleData>
+		<SimpleData name="X">307626.6660</SimpleData>
+		<SimpleData name="Y">4835867.1310</SimpleData>
+		<SimpleData name="LATITUDE">43.66475036010</SimpleData>
+		<SimpleData name="LONGITUDE">-79.46475722220</SimpleData>
+		<SimpleData name="WARD_NAME">Parkdale-High Park (13)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2286011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.464757222167322,43.664750360141859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 424</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 424</SimpleData>
+		<SimpleData name="ADDRESS">462 RUNNYMEDE RD</SimpleData>
+		<SimpleData name="X">306427.1460</SimpleData>
+		<SimpleData name="Y">4835157.1940</SimpleData>
+		<SimpleData name="LATITUDE">43.65836313220</SimpleData>
+		<SimpleData name="LONGITUDE">-79.47963266440</SimpleData>
+		<SimpleData name="WARD_NAME">Parkdale-High Park (13)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2025112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.479632664415121,43.658363132153653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 425</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 425</SimpleData>
+		<SimpleData name="ADDRESS">83 DEFOREST RD</SimpleData>
+		<SimpleData name="X">306554.1710</SimpleData>
+		<SimpleData name="Y">4834005.4450</SimpleData>
+		<SimpleData name="LATITUDE">43.64799560370</SimpleData>
+		<SimpleData name="LONGITUDE">-79.47806209560</SimpleData>
+		<SimpleData name="WARD_NAME">Parkdale-High Park (13)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2943084</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.478062095588513,43.64799560371506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 426</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 426</SimpleData>
+		<SimpleData name="ADDRESS">140 LANSDOWNE AVE</SimpleData>
+		<SimpleData name="X">309716.1070</SimpleData>
+		<SimpleData name="Y">4833684.6930</SimpleData>
+		<SimpleData name="LATITUDE">43.64509502120</SimpleData>
+		<SimpleData name="LONGITUDE">-79.43886995740</SimpleData>
+		<SimpleData name="WARD_NAME">Parkdale-High Park (14)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1578612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.438869957381911,43.645095021219149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 431</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 431</SimpleData>
+		<SimpleData name="ADDRESS">308 PRINCE EDWARD DR S</SimpleData>
+		<SimpleData name="X">304393.0000</SimpleData>
+		<SimpleData name="Y">4833832.9480</SimpleData>
+		<SimpleData name="LATITUDE">43.64644464280</SimpleData>
+		<SimpleData name="LONGITUDE">-79.50485031560</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke-Lakeshore (5)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">2663266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.504850315588911,43.646444642806955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 432</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 432</SimpleData>
+		<SimpleData name="ADDRESS">155 THE EAST MALL</SimpleData>
+		<SimpleData name="X">300801.0750</SimpleData>
+		<SimpleData name="Y">4831268.3290</SimpleData>
+		<SimpleData name="LATITUDE">43.62334958140</SimpleData>
+		<SimpleData name="LONGITUDE">-79.54935698120</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke-Lakeshore (5)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">2609714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.549356981238915,43.62334958141885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 433</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 433</SimpleData>
+		<SimpleData name="ADDRESS">615 ROYAL YORK RD</SimpleData>
+		<SimpleData name="X">304546.9540</SimpleData>
+		<SimpleData name="Y">4831786.8820</SimpleData>
+		<SimpleData name="LATITUDE">43.62802711190</SimpleData>
+		<SimpleData name="LONGITUDE">-79.50294143440</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke-Lakeshore (5)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">1918334</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.50294143439892,43.628027111862657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 434</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 434</SimpleData>
+		<SimpleData name="ADDRESS">3 LUNNESS RD</SimpleData>
+		<SimpleData name="X">301232.8290</SimpleData>
+		<SimpleData name="Y">4828960.5340</SimpleData>
+		<SimpleData name="LATITUDE">43.60257889880</SimpleData>
+		<SimpleData name="LONGITUDE">-79.54399221680</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke-Lakeshore (6)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">1977909</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.543992216766711,43.602578898798058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 435</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 435</SimpleData>
+		<SimpleData name="ADDRESS">130 EIGHTH ST</SimpleData>
+		<SimpleData name="X">304221.3860</SimpleData>
+		<SimpleData name="Y">4828798.4070</SimpleData>
+		<SimpleData name="LATITUDE">43.60112708810</SimpleData>
+		<SimpleData name="LONGITUDE">-79.50697326690</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke-Lakeshore (6)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">2012378</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.506973266902008,43.601127088145454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 441</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 441</SimpleData>
+		<SimpleData name="ADDRESS">947 MARTIN GROVE RD</SimpleData>
+		<SimpleData name="X">298986.9160</SimpleData>
+		<SimpleData name="Y">4839226.2170</SimpleData>
+		<SimpleData name="LATITUDE">43.69496904590</SimpleData>
+		<SimpleData name="LONGITUDE">-79.57192294900</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke North (2)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">1959089</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.571922948984209,43.694969045885657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 442</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 442</SimpleData>
+		<SimpleData name="ADDRESS">2015 LAWRENCE AVE W</SimpleData>
+		<SimpleData name="X">303785.9970</SimpleData>
+		<SimpleData name="Y">4839850.2450</SimpleData>
+		<SimpleData name="LATITUDE">43.70059870000</SimpleData>
+		<SimpleData name="LONGITUDE">-79.51238441600</SimpleData>
+		<SimpleData name="WARD_NAME">York South-Weston (11)</SimpleData>
+		<SimpleData name="MUN_NAME">York</SimpleData>
+		<SimpleData name="OBJECTID">3234576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.512384415999918,43.700598699999958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 443</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 443</SimpleData>
+		<SimpleData name="ADDRESS">1724 ISLINGTON AVE</SimpleData>
+		<SimpleData name="X">301675.5150</SimpleData>
+		<SimpleData name="Y">4837348.2140</SimpleData>
+		<SimpleData name="LATITUDE">43.67807959890</SimpleData>
+		<SimpleData name="LONGITUDE">-79.53855693020</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke Centre (4)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">3035181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.538556930157412,43.678079598895252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 444</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 444</SimpleData>
+		<SimpleData name="ADDRESS">666 RENFORTH DR</SimpleData>
+		<SimpleData name="X">298114.0940</SimpleData>
+		<SimpleData name="Y">4835061.6310</SimpleData>
+		<SimpleData name="LATITUDE">43.65747531240</SimpleData>
+		<SimpleData name="LONGITUDE">-79.58269928490</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke Centre (3)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">2238015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.582699284943331,43.65747531243656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 445</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 445</SimpleData>
+		<SimpleData name="ADDRESS">280 BURNHAMTHORPE RD</SimpleData>
+		<SimpleData name="X">301145.6400</SimpleData>
+		<SimpleData name="Y">4834157.4460</SimpleData>
+		<SimpleData name="LATITUDE">43.64935675550</SimpleData>
+		<SimpleData name="LONGITUDE">-79.54510637070</SimpleData>
+		<SimpleData name="WARD_NAME">Etobicoke-Lakeshore (5)</SimpleData>
+		<SimpleData name="MUN_NAME">Etobicoke</SimpleData>
+		<SimpleData name="OBJECTID">2544120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.545106370661728,43.649356755510752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 111</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 111</SimpleData>
+		<SimpleData name="ADDRESS">3300 BAYVIEW AVE</SimpleData>
+		<SimpleData name="X">313342.9710</SimpleData>
+		<SimpleData name="Y">4849801.6890</SimpleData>
+		<SimpleData name="LATITUDE">43.79013560970</SimpleData>
+		<SimpleData name="LONGITUDE">-79.39365912530</SimpleData>
+		<SimpleData name="WARD_NAME">Willowdale (24)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">3311708</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.393659125267632,43.790135609671559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 112</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 112</SimpleData>
+		<SimpleData name="ADDRESS">5700 BATHURST ST</SimpleData>
+		<SimpleData name="X">309269.2670</SimpleData>
+		<SimpleData name="Y">4848259.9850</SimpleData>
+		<SimpleData name="LATITUDE">43.77628551800</SimpleData>
+		<SimpleData name="LONGITUDE">-79.44428604600</SimpleData>
+		<SimpleData name="WARD_NAME">York Centre (10)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">3311629</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.444286045999917,43.776285517999959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 113</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 113</SimpleData>
+		<SimpleData name="ADDRESS">700 SENECA HILL DR</SimpleData>
+		<SimpleData name="X">316788.7770</SimpleData>
+		<SimpleData name="Y">4850145.9090</SimpleData>
+		<SimpleData name="LATITUDE">43.79318654260</SimpleData>
+		<SimpleData name="LONGITUDE">-79.35083623600</SimpleData>
+		<SimpleData name="WARD_NAME">Don Valley East (33)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">2788036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.350836236002721,43.793186542625655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 114</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 114</SimpleData>
+		<SimpleData name="ADDRESS">12 CANTERBURY PL</SimpleData>
+		<SimpleData name="X">311598.6100</SimpleData>
+		<SimpleData name="Y">4847856.4720</SimpleData>
+		<SimpleData name="LATITUDE">43.77264445420</SimpleData>
+		<SimpleData name="LONGITUDE">-79.41535802340</SimpleData>
+		<SimpleData name="WARD_NAME">Willowdale (23)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">3311726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.41535802335342,43.772644454179051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 115</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 115</SimpleData>
+		<SimpleData name="ADDRESS">115 PARKWAY FOREST DR</SimpleData>
+		<SimpleData name="X">317609.3220</SimpleData>
+		<SimpleData name="Y">4848061.6700</SimpleData>
+		<SimpleData name="LATITUDE">43.77441215800</SimpleData>
+		<SimpleData name="LONGITUDE">-79.34068930140</SimpleData>
+		<SimpleData name="WARD_NAME">Don Valley East (33)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">1783376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.340689301369409,43.774412157995556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 116</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 116</SimpleData>
+		<SimpleData name="ADDRESS">255 ESTHER SHINER BLVD</SimpleData>
+		<SimpleData name="X">315647.7780</SimpleData>
+		<SimpleData name="Y">4847474.1270</SimpleData>
+		<SimpleData name="LATITUDE">43.76915455040</SimpleData>
+		<SimpleData name="LONGITUDE">-79.36506688860</SimpleData>
+		<SimpleData name="WARD_NAME">Willowdale (24)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">2607109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.365066888625208,43.769154550442956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 121</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 121</SimpleData>
+		<SimpleData name="ADDRESS">10 WILLIAM CARSON CRES</SimpleData>
+		<SimpleData name="X">312291.8140</SimpleData>
+		<SimpleData name="Y">4845180.2640</SimpleData>
+		<SimpleData name="LATITUDE">43.74854867940</SimpleData>
+		<SimpleData name="LONGITUDE">-79.40678399850</SimpleData>
+		<SimpleData name="WARD_NAME">Don Valley West (25)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">1662173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.406783998482013,43.748548679378956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 122</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 122</SimpleData>
+		<SimpleData name="ADDRESS">2545 BAYVIEW AVE</SimpleData>
+		<SimpleData name="X">314148.5350</SimpleData>
+		<SimpleData name="Y">4845194.2620</SimpleData>
+		<SimpleData name="LATITUDE">43.74865321570</SimpleData>
+		<SimpleData name="LONGITUDE">-79.38372919610</SimpleData>
+		<SimpleData name="WARD_NAME">Don Valley West (25)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">3074276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.383729196144728,43.74865321567426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 123</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 123</SimpleData>
+		<SimpleData name="ADDRESS">143 BOND AVE</SimpleData>
+		<SimpleData name="X">317128.9160</SimpleData>
+		<SimpleData name="Y">4844884.5910</SimpleData>
+		<SimpleData name="LATITUDE">43.74582261030</SimpleData>
+		<SimpleData name="LONGITUDE">-79.34672925880</SimpleData>
+		<SimpleData name="WARD_NAME">Don Valley East (34)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">2108616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.346729258847517,43.745822610326059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 125</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 125</SimpleData>
+		<SimpleData name="ADDRESS">1109 LESLIE ST</SimpleData>
+		<SimpleData name="X">316941.6990</SimpleData>
+		<SimpleData name="Y">4842142.6160</SimpleData>
+		<SimpleData name="LATITUDE">43.72114438690</SimpleData>
+		<SimpleData name="LONGITUDE">-79.34911542100</SimpleData>
+		<SimpleData name="WARD_NAME">Don Valley West (25)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">2981001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.34911542103913,43.721144386904747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 131</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 131</SimpleData>
+		<SimpleData name="ADDRESS">3135 YONGE ST</SimpleData>
+		<SimpleData name="X">312667.0850</SimpleData>
+		<SimpleData name="Y">4842700.7890</SimpleData>
+		<SimpleData name="LATITUDE">43.72622560320</SimpleData>
+		<SimpleData name="LONGITUDE">-79.40216053440</SimpleData>
+		<SimpleData name="WARD_NAME">Don Valley West (25)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2119715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.402160534380414,43.726225603229857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 132</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 132</SimpleData>
+		<SimpleData name="ADDRESS">476 LAWRENCE AVE W</SimpleData>
+		<SimpleData name="X">310539.5820</SimpleData>
+		<SimpleData name="Y">4841985.4860</SimpleData>
+		<SimpleData name="LATITUDE">43.71980673980</SimpleData>
+		<SimpleData name="LONGITUDE">-79.42857512200</SimpleData>
+		<SimpleData name="WARD_NAME">Eglinton-Lawrence (16)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">1852933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.428575122043526,43.719806739790052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 133</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 133</SimpleData>
+		<SimpleData name="ADDRESS">1505 LAWRENCE AVE W</SimpleData>
+		<SimpleData name="X">306219.9820</SimpleData>
+		<SimpleData name="Y">4840581.9190</SimpleData>
+		<SimpleData name="LATITUDE">43.70719344050</SimpleData>
+		<SimpleData name="LONGITUDE">-79.48218815010</SimpleData>
+		<SimpleData name="WARD_NAME">York South-Weston (12)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">2829802</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.482188150062328,43.707193440525757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 134</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 134</SimpleData>
+		<SimpleData name="ADDRESS">16 MONTGOMERY AVE</SimpleData>
+		<SimpleData name="X">312861.7570</SimpleData>
+		<SimpleData name="Y">4840861.2950</SimpleData>
+		<SimpleData name="LATITUDE">43.70966534770</SimpleData>
+		<SimpleData name="LONGITUDE">-79.39977155190</SimpleData>
+		<SimpleData name="WARD_NAME">Eglinton-Lawrence (16)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1662464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.39977155191481,43.70966534767846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 135</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 135</SimpleData>
+		<SimpleData name="ADDRESS">641 EGLINTON AVE W</SimpleData>
+		<SimpleData name="X">311525.2680</SimpleData>
+		<SimpleData name="Y">4840092.9170</SimpleData>
+		<SimpleData name="LATITUDE">43.70276262920</SimpleData>
+		<SimpleData name="LONGITUDE">-79.41636557610</SimpleData>
+		<SimpleData name="WARD_NAME">St. Paul's (22)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1665125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.416365576109712,43.702762629192854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 141</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 141</SimpleData>
+		<SimpleData name="ADDRESS">4100 KEELE ST</SimpleData>
+		<SimpleData name="X">305370.1920</SimpleData>
+		<SimpleData name="Y">4847207.0910</SimpleData>
+		<SimpleData name="LATITUDE">43.76683011050</SimpleData>
+		<SimpleData name="LONGITUDE">-79.49272686890</SimpleData>
+		<SimpleData name="WARD_NAME">York West (8)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">3020263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.492726868949134,43.766830110522051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 142</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 142</SimpleData>
+		<SimpleData name="ADDRESS">2753 JANE ST</SimpleData>
+		<SimpleData name="X">303626.9260</SimpleData>
+		<SimpleData name="Y">4844892.0920</SimpleData>
+		<SimpleData name="LATITUDE">43.74599129980</SimpleData>
+		<SimpleData name="LONGITUDE">-79.51437393100</SimpleData>
+		<SimpleData name="WARD_NAME">York Centre (9)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">2982185</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.514373931011335,43.745991299759559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 143</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 143</SimpleData>
+		<SimpleData name="ADDRESS">1009 SHEPPARD AVE W</SimpleData>
+		<SimpleData name="X">308027.6960</SimpleData>
+		<SimpleData name="Y">4845411.7410</SimpleData>
+		<SimpleData name="LATITUDE">43.75066274000</SimpleData>
+		<SimpleData name="LONGITUDE">-79.45973005870</SimpleData>
+		<SimpleData name="WARD_NAME">York Centre (10)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">3083829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.459730058694518,43.750662739994354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 145</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 145</SimpleData>
+		<SimpleData name="ADDRESS">20 BEFFORT RD</SimpleData>
+		<SimpleData name="X">308003.8820</SimpleData>
+		<SimpleData name="Y">4843645.4660</SimpleData>
+		<SimpleData name="LATITUDE">43.73476410220</SimpleData>
+		<SimpleData name="LONGITUDE">-79.46003547480</SimpleData>
+		<SimpleData name="WARD_NAME">York Centre (9)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">3186765</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.460035474756609,43.734764102182453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 146</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 146</SimpleData>
+		<SimpleData name="ADDRESS">2220 JANE ST</SimpleData>
+		<SimpleData name="X">303996.5990</SimpleData>
+		<SimpleData name="Y">4842402.4300</SimpleData>
+		<SimpleData name="LATITUDE">43.72358144800</SimpleData>
+		<SimpleData name="LONGITUDE">-79.50977937380</SimpleData>
+		<SimpleData name="WARD_NAME">York West (7)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">3072600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.509779373818333,43.723581448026259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 211</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 211</SimpleData>
+		<SimpleData name="ADDRESS">900 TAPSCOTT RD</SimpleData>
+		<SimpleData name="X">325466.6360</SimpleData>
+		<SimpleData name="Y">4853590.5170</SimpleData>
+		<SimpleData name="LATITUDE">43.82400134220</SimpleData>
+		<SimpleData name="LONGITUDE">-79.24287323860</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough-Rouge River (42)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">1520443</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.242873238608311,43.82400134218905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 212</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 212</SimpleData>
+		<SimpleData name="ADDRESS">8500 SHEPPARD AVE E</SimpleData>
+		<SimpleData name="X">329838.1070</SimpleData>
+		<SimpleData name="Y">4851487.8820</SimpleData>
+		<SimpleData name="LATITUDE">43.80494085980</SimpleData>
+		<SimpleData name="LONGITUDE">-79.18862318840</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough-Rouge River (42)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">2303629</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.188623188408727,43.804940859833657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 213</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 213</SimpleData>
+		<SimpleData name="ADDRESS">7 LAPSLEY RD</SimpleData>
+		<SimpleData name="X">326837.0490</SimpleData>
+		<SimpleData name="Y">4850419.0390</SimpleData>
+		<SimpleData name="LATITUDE">43.79541522180</SimpleData>
+		<SimpleData name="LONGITUDE">-79.22596509830</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough-Rouge River (42)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">2458686</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.225965098309914,43.79541522183586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 214</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 214</SimpleData>
+		<SimpleData name="ADDRESS">745 MEADOWVALE RD</SimpleData>
+		<SimpleData name="X">331855.8730</SimpleData>
+		<SimpleData name="Y">4850304.6070</SimpleData>
+		<SimpleData name="LATITUDE">43.79421938520</SimpleData>
+		<SimpleData name="LONGITUDE">-79.16360478290</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough East (44)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">1567567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.163604782933618,43.794219385217353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 215</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 215</SimpleData>
+		<SimpleData name="ADDRESS">5318 LAWRENCE AVE E</SimpleData>
+		<SimpleData name="X">333114.0220</SimpleData>
+		<SimpleData name="Y">4848441.1770</SimpleData>
+		<SimpleData name="LATITUDE">43.77740055300</SimpleData>
+		<SimpleData name="LONGITUDE">-79.14806906200</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough East (44)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">2250005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.148069062036811,43.77740055299396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 222</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 222</SimpleData>
+		<SimpleData name="ADDRESS">755 WARDEN AVE</SimpleData>
+		<SimpleData name="X">322180.8520</SimpleData>
+		<SimpleData name="Y">4842072.3370</SimpleData>
+		<SimpleData name="LATITUDE">43.72040802920</SimpleData>
+		<SimpleData name="LONGITUDE">-79.28409383370</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough Southwest (35)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">2449586</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.284093833662723,43.720408029208052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 223</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 223</SimpleData>
+		<SimpleData name="ADDRESS">116 DORSET RD</SimpleData>
+		<SimpleData name="X">326275.0350</SimpleData>
+		<SimpleData name="Y">4842479.4390</SimpleData>
+		<SimpleData name="LATITUDE">43.72396536320</SimpleData>
+		<SimpleData name="LONGITUDE">-79.23326426940</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough Southwest (36)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">2172861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.233264269429711,43.723965363211761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 224</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 224</SimpleData>
+		<SimpleData name="ADDRESS">1313 WOODBINE AVE</SimpleData>
+		<SimpleData name="X">319567.8950</SimpleData>
+		<SimpleData name="Y">4839265.1580</SimpleData>
+		<SimpleData name="LATITUDE">43.69519605460</SimpleData>
+		<SimpleData name="LONGITUDE">-79.31660023100</SimpleData>
+		<SimpleData name="WARD_NAME">Beaches-East York (31)</SimpleData>
+		<SimpleData name="MUN_NAME">East York</SimpleData>
+		<SimpleData name="OBJECTID">2062647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.31660023101513,43.695196054555147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 225</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 225</SimpleData>
+		<SimpleData name="ADDRESS">3600 DANFORTH AVE</SimpleData>
+		<SimpleData name="X">323445.0680</SimpleData>
+		<SimpleData name="Y">4839355.7900</SimpleData>
+		<SimpleData name="LATITUDE">43.69592547130</SimpleData>
+		<SimpleData name="LONGITUDE">-79.26849780870</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough Southwest (36)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">2642292</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.26849780872611,43.695925471284355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 226</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 226</SimpleData>
+		<SimpleData name="ADDRESS">87 MAIN ST</SimpleData>
+		<SimpleData name="X">320984.6350</SimpleData>
+		<SimpleData name="Y">4837794.8050</SimpleData>
+		<SimpleData name="LATITUDE">43.68193193300</SimpleData>
+		<SimpleData name="LONGITUDE">-79.29906847830</SimpleData>
+		<SimpleData name="WARD_NAME">Beaches-East York (32)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2080935</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.299068478326831,43.681931933013153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 227</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 227</SimpleData>
+		<SimpleData name="ADDRESS">1904 QUEEN ST E</SimpleData>
+		<SimpleData name="X">320506.3800</SimpleData>
+		<SimpleData name="Y">4836376.0100</SimpleData>
+		<SimpleData name="LATITUDE">43.66917159460</SimpleData>
+		<SimpleData name="LONGITUDE">-79.30504140660</SimpleData>
+		<SimpleData name="WARD_NAME">Beaches-East York (32)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2309211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.305041406634814,43.66917159459426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 231</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 231</SimpleData>
+		<SimpleData name="ADDRESS">740 MARKHAM RD</SimpleData>
+		<SimpleData name="X">326701.2900</SimpleData>
+		<SimpleData name="Y">4847000.9850</SimpleData>
+		<SimpleData name="LATITUDE">43.76465262070</SimpleData>
+		<SimpleData name="LONGITUDE">-79.22779085880</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough Centre (38)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">2175731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.227790858760315,43.76465262072275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 232</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 232</SimpleData>
+		<SimpleData name="ADDRESS">1550 MIDLAND AVE</SimpleData>
+		<SimpleData name="X">323559.1540</SimpleData>
+		<SimpleData name="Y">4845916.3500</SimpleData>
+		<SimpleData name="LATITUDE">43.75497555040</SimpleData>
+		<SimpleData name="LONGITUDE">-79.26685427520</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough Centre (37)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">1657015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.266854275203926,43.754975550382255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 233</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 233</SimpleData>
+		<SimpleData name="ADDRESS">59 CURLEW DR</SimpleData>
+		<SimpleData name="X">319723.2030</SimpleData>
+		<SimpleData name="Y">4844699.8270</SimpleData>
+		<SimpleData name="LATITUDE">43.74411208180</SimpleData>
+		<SimpleData name="LONGITUDE">-79.31452336190</SimpleData>
+		<SimpleData name="WARD_NAME">Don Valley East (34)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">2949111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.314523361862925,43.744112081808055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 234</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 234</SimpleData>
+		<SimpleData name="ADDRESS">40 CORONATION DR</SimpleData>
+		<SimpleData name="X">329622.6280</SimpleData>
+		<SimpleData name="Y">4846613.8490</SimpleData>
+		<SimpleData name="LATITUDE">43.76107677240</SimpleData>
+		<SimpleData name="LONGITUDE">-79.19152520890</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough East (43)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">2004920</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.19152520892051,43.761076772375958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 235</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 235</SimpleData>
+		<SimpleData name="ADDRESS">200 BERMONDSEY RD</SimpleData>
+		<SimpleData name="X">319694.7330</SimpleData>
+		<SimpleData name="Y">4842494.5600</SimpleData>
+		<SimpleData name="LATITUDE">43.72425341600</SimpleData>
+		<SimpleData name="LONGITUDE">-79.31493441900</SimpleData>
+		<SimpleData name="WARD_NAME">Don Valley East (34)</SimpleData>
+		<SimpleData name="MUN_NAME">North York</SimpleData>
+		<SimpleData name="OBJECTID">3217085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.314934418999911,43.724253415999961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 241</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 241</SimpleData>
+		<SimpleData name="ADDRESS">3325 WARDEN AVE</SimpleData>
+		<SimpleData name="X">318959.1940</SimpleData>
+		<SimpleData name="Y">4852468.1680</SimpleData>
+		<SimpleData name="LATITUDE">43.81405059380</SimpleData>
+		<SimpleData name="LONGITUDE">-79.32380577280</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough-Agincourt (39)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">3174616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.323805772817408,43.814050593760754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 242</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 242</SimpleData>
+		<SimpleData name="ADDRESS">2733 BRIMLEY RD</SimpleData>
+		<SimpleData name="X">322705.9040</SimpleData>
+		<SimpleData name="Y">4851685.8360</SimpleData>
+		<SimpleData name="LATITUDE">43.80692825720</SimpleData>
+		<SimpleData name="LONGITUDE">-79.27725949060</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough-Rouge River (41)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">1932855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.277259490632218,43.806928257234148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 243</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 243</SimpleData>
+		<SimpleData name="ADDRESS">4560 SHEPPARD AVE E</SimpleData>
+		<SimpleData name="X">323861.6950</SimpleData>
+		<SimpleData name="Y">4849713.3760</SimpleData>
+		<SimpleData name="LATITUDE">43.78914552710</SimpleData>
+		<SimpleData name="LONGITUDE">-79.26296340690</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough-Rouge River (41)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">2236216</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.262963406934915,43.789145527145259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 244</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 244</SimpleData>
+		<SimpleData name="ADDRESS">2340 BIRCHMOUNT RD</SimpleData>
+		<SimpleData name="X">320953.8740</SimpleData>
+		<SimpleData name="Y">4848877.5820</SimpleData>
+		<SimpleData name="LATITUDE">43.78169110430</SimpleData>
+		<SimpleData name="LONGITUDE">-79.29911853910</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough-Agincourt (40)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">2063805</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.299118539088525,43.78169110426186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 245</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 245</SimpleData>
+		<SimpleData name="ADDRESS">1600 BIRCHMOUNT RD</SimpleData>
+		<SimpleData name="X">321570.6150</SimpleData>
+		<SimpleData name="Y">4846769.2820</SimpleData>
+		<SimpleData name="LATITUDE">43.76270042820</SimpleData>
+		<SimpleData name="LONGITUDE">-79.29152162310</SimpleData>
+		<SimpleData name="WARD_NAME">Scarborough Centre (37)</SimpleData>
+		<SimpleData name="MUN_NAME">Scarborough</SimpleData>
+		<SimpleData name="OBJECTID">3093030</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.291521623123614,43.762700428183059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 311</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 311</SimpleData>
+		<SimpleData name="ADDRESS">20 BALMORAL AVE</SimpleData>
+		<SimpleData name="X">313331.9120</SimpleData>
+		<SimpleData name="Y">4838228.1340</SimpleData>
+		<SimpleData name="LATITUDE">43.68595939210</SimpleData>
+		<SimpleData name="LONGITUDE">-79.39397908250</SimpleData>
+		<SimpleData name="WARD_NAME">St. Paul's (22)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1995083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.393979082467908,43.685959392113048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 312</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 312</SimpleData>
+		<SimpleData name="ADDRESS">34 YORKVILLE AVE</SimpleData>
+		<SimpleData name="X">313741.5630</SimpleData>
+		<SimpleData name="Y">4836664.9050</SimpleData>
+		<SimpleData name="LATITUDE">43.67188344720</SimpleData>
+		<SimpleData name="LONGITUDE">-79.38892361190</SimpleData>
+		<SimpleData name="WARD_NAME">Toronto Centre-Rosedale (27)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2224532</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.388923611934416,43.671883447164156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 313</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 313</SimpleData>
+		<SimpleData name="ADDRESS">441 BLOOR ST E</SimpleData>
+		<SimpleData name="X">314818.5550</SimpleData>
+		<SimpleData name="Y">4836690.8840</SimpleData>
+		<SimpleData name="LATITUDE">43.67210363990</SimpleData>
+		<SimpleData name="LONGITUDE">-79.37556728920</SimpleData>
+		<SimpleData name="WARD_NAME">Toronto Centre-Rosedale (28)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">3066514</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.375567289198315,43.672103639871949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 314</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 314</SimpleData>
+		<SimpleData name="ADDRESS">12 GROSVENOR ST</SimpleData>
+		<SimpleData name="X">314086.3130</SimpleData>
+		<SimpleData name="Y">4835685.8200</SimpleData>
+		<SimpleData name="LATITUDE">43.66306600280</SimpleData>
+		<SimpleData name="LONGITUDE">-79.38466500010</SimpleData>
+		<SimpleData name="WARD_NAME">Toronto Centre-Rosedale (27)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">1669763</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.384665000088916,43.66306600279465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 315</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 315</SimpleData>
+		<SimpleData name="ADDRESS">132 BELLEVUE AVE</SimpleData>
+		<SimpleData name="X">312464.3930</SimpleData>
+		<SimpleData name="Y">4834991.2630</SimpleData>
+		<SimpleData name="LATITUDE">43.65683317310</SimpleData>
+		<SimpleData name="LONGITUDE">-79.40478496570</SimpleData>
+		<SimpleData name="WARD_NAME">Trinity-Spadina (20)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">3000730</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.404784965652922,43.656833173113249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 321</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 321</SimpleData>
+		<SimpleData name="ADDRESS">231 MCRAE DR</SimpleData>
+		<SimpleData name="X">315675.8160</SimpleData>
+		<SimpleData name="Y">4840760.0070</SimpleData>
+		<SimpleData name="LATITUDE">43.70871845240</SimpleData>
+		<SimpleData name="LONGITUDE">-79.36485462970</SimpleData>
+		<SimpleData name="WARD_NAME">Don Valley West (26)</SimpleData>
+		<SimpleData name="MUN_NAME">East York</SimpleData>
+		<SimpleData name="OBJECTID">2479820</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.364854629736627,43.708718452395459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 322</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 322</SimpleData>
+		<SimpleData name="ADDRESS">256 COSBURN AVE</SimpleData>
+		<SimpleData name="X">317493.4300</SimpleData>
+		<SimpleData name="Y">4838794.1130</SimpleData>
+		<SimpleData name="LATITUDE">43.69099474930</SimpleData>
+		<SimpleData name="LONGITUDE">-79.34234693810</SimpleData>
+		<SimpleData name="WARD_NAME">Toronto-Danforth (29)</SimpleData>
+		<SimpleData name="MUN_NAME">East York</SimpleData>
+		<SimpleData name="OBJECTID">2455220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.342346938060018,43.690994749309056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FIRE STATION 323</name>
+	<ExtendedData><SchemaData schemaUrl="#FIRE_FACILITY_WGS84">
+		<SimpleData name="Name">FIRE STATION 323</SimpleData>
+		<SimpleData name="ADDRESS">153 CHATHAM AVE</SimpleData>
+		<SimpleData name="X">318115.1840</SimpleData>
+		<SimpleData name="Y">4837524.0130</SimpleData>
+		<SimpleData name="LATITUDE">43.67955148060</SimpleData>
+		<SimpleData name="LONGITUDE">-79.33466533380</SimpleData>
+		<SimpleData name="WARD_NAME">Toronto-Danforth (30)</SimpleData>
+		<SimpleData name="MUN_NAME">former Toronto</SimpleData>
+		<SimpleData name="OBJECTID">2004250</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.334665333837322,43.679551480617157</coordinates></Point>
+  </Placemark>
+</Folder></Document>

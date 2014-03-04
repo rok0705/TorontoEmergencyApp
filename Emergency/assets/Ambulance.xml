@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>AMBULANCE_FACILITY_WGS84</name>
+<Schema name="AMBULANCE_FACILITY_WGS84" id="AMBULANCE_FACILITY_WGS84">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="ADD_PT_ID" type="int"></SimpleField>
+	<SimpleField name="X" type="float"></SimpleField>
+	<SimpleField name="Y" type="float"></SimpleField>
+	<SimpleField name="LONGITUDE" type="float"></SimpleField>
+	<SimpleField name="LATITUDE" type="float"></SimpleField>
+	<SimpleField name="name" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">531061</SimpleData>
+		<SimpleData name="X">303626.9260</SimpleData>
+		<SimpleData name="Y">4844892.0920</SimpleData>
+		<SimpleData name="LONGITUDE">-79.51437302230</SimpleData>
+		<SimpleData name="LATITUDE">43.74599388480</SimpleData>
+		<SimpleData name="name">Emergency 15</SimpleData>
+		<SimpleData name="address">2753 JANE ST</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.51437302231362,43.745993884811661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">1027342</SimpleData>
+		<SimpleData name="X">297968.3640</SimpleData>
+		<SimpleData name="Y">4841358.4620</SimpleData>
+		<SimpleData name="LONGITUDE">-79.58458568740</SimpleData>
+		<SimpleData name="LATITUDE">43.71415574810</SimpleData>
+		<SimpleData name="name">Emergency 14</SimpleData>
+		<SimpleData name="address">321 REXDALE BLVD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.584585687376233,43.714155748139255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">4616609</SimpleData>
+		<SimpleData name="X">320220.6610</SimpleData>
+		<SimpleData name="Y">4851221.6750</SimpleData>
+		<SimpleData name="LONGITUDE">-79.30816068440</SimpleData>
+		<SimpleData name="LATITUDE">43.80280889530</SimpleData>
+		<SimpleData name="name">Emergency 24</SimpleData>
+		<SimpleData name="address">3061 BIRCHMOUNT RD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.308160684396327,43.802808895326457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">4840624</SimpleData>
+		<SimpleData name="X">323861.6950</SimpleData>
+		<SimpleData name="Y">4849713.3760</SimpleData>
+		<SimpleData name="LONGITUDE">-79.26296331250</SimpleData>
+		<SimpleData name="LATITUDE">43.78914787230</SimpleData>
+		<SimpleData name="name">Emergency 29</SimpleData>
+		<SimpleData name="address">4560 SHEPPARD AVE E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.262963312541217,43.789147872279855</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">5336734</SimpleData>
+		<SimpleData name="X">307479.1870</SimpleData>
+		<SimpleData name="Y">4846648.7340</SimpleData>
+		<SimpleData name="LONGITUDE">-79.46653417090</SimpleData>
+		<SimpleData name="LATITUDE">43.76180183690</SimpleData>
+		<SimpleData name="name">Emergency 53, EMS Headquarters</SimpleData>
+		<SimpleData name="address">4330 DUFFERIN ST</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.466534170859518,43.76180183693846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">7009492</SimpleData>
+		<SimpleData name="X">299632.1670</SimpleData>
+		<SimpleData name="Y">4837202.6900</SimpleData>
+		<SimpleData name="LONGITUDE">-79.56389815260</SimpleData>
+		<SimpleData name="LATITUDE">43.67676158410</SimpleData>
+		<SimpleData name="name">Emergency 13</SimpleData>
+		<SimpleData name="address">555 MARTIN GROVE RD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.56389815261852,43.676761584132358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">7171806</SimpleData>
+		<SimpleData name="X">323197.3260</SimpleData>
+		<SimpleData name="Y">4845463.2230</SimpleData>
+		<SimpleData name="LONGITUDE">-79.27136256700</SimpleData>
+		<SimpleData name="LATITUDE">43.75090830270</SimpleData>
+		<SimpleData name="name">Emergency 20, District 2 Office</SimpleData>
+		<SimpleData name="address">2430 LAWRENCE AVE E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.271362566975512,43.750908302692956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">7979626</SimpleData>
+		<SimpleData name="X">313388.3770</SimpleData>
+		<SimpleData name="Y">4836977.4180</SimpleData>
+		<SimpleData name="LONGITUDE">-79.39329767240</SimpleData>
+		<SimpleData name="LATITUDE">43.67470271060</SimpleData>
+		<SimpleData name="name">Emergency 45</SimpleData>
+		<SimpleData name="address">135 DAVENPORT RD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.393297672404429,43.674702710564652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">7994003</SimpleData>
+		<SimpleData name="X">307211.0600</SimpleData>
+		<SimpleData name="Y">4834566.3800</SimpleData>
+		<SimpleData name="LONGITUDE">-79.46991730630</SimpleData>
+		<SimpleData name="LATITUDE">43.65304542040</SimpleData>
+		<SimpleData name="name">Emergency 32</SimpleData>
+		<SimpleData name="address">9 CLENDENAN AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.46991730627272,43.653045420372251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">8100063</SimpleData>
+		<SimpleData name="X">300801.0750</SimpleData>
+		<SimpleData name="Y">4831268.3290</SimpleData>
+		<SimpleData name="LONGITUDE">-79.54935692970</SimpleData>
+		<SimpleData name="LATITUDE">43.62335185070</SimpleData>
+		<SimpleData name="name">Emergency 39</SimpleData>
+		<SimpleData name="address">155 THE EAST MALL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.549356929686013,43.623351850713249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">8292801</SimpleData>
+		<SimpleData name="X">307476.1120</SimpleData>
+		<SimpleData name="Y">4841203.6230</SimpleData>
+		<SimpleData name="LONGITUDE">-79.46659844430</SimpleData>
+		<SimpleData name="LATITUDE">43.71278865300</SimpleData>
+		<SimpleData name="name">Emergency 11</SimpleData>
+		<SimpleData name="address">1135 CALEDONIA RD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.466598444310819,43.712788652959354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">9011645</SimpleData>
+		<SimpleData name="X">326832.6650</SimpleData>
+		<SimpleData name="Y">4844485.7790</SimpleData>
+		<SimpleData name="LONGITUDE">-79.22626171380</SimpleData>
+		<SimpleData name="LATITUDE">43.74201150090</SimpleData>
+		<SimpleData name="name">Emergency 22</SimpleData>
+		<SimpleData name="address">3100 EGLINTON AVE E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.226261713783515,43.74201150091946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">9246505</SimpleData>
+		<SimpleData name="X">309929.0150</SimpleData>
+		<SimpleData name="Y">4845076.1150</SimpleData>
+		<SimpleData name="LONGITUDE">-79.43612321020</SimpleData>
+		<SimpleData name="LATITUDE">43.74763335040</SimpleData>
+		<SimpleData name="name">Emergency 54</SimpleData>
+		<SimpleData name="address">4135 BATHURST ST</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.436123210206517,43.747633350439159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">9313399</SimpleData>
+		<SimpleData name="X">309269.2670</SimpleData>
+		<SimpleData name="Y">4848259.9850</SimpleData>
+		<SimpleData name="LONGITUDE">-79.44428861100</SimpleData>
+		<SimpleData name="LATITUDE">43.77629642910</SimpleData>
+		<SimpleData name="name">Emergency 55, District 5 Office</SimpleData>
+		<SimpleData name="address">5700 BATHURST ST</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.444288611045309,43.776296429119753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">9602654</SimpleData>
+		<SimpleData name="X">313342.9710</SimpleData>
+		<SimpleData name="Y">4849801.6890</SimpleData>
+		<SimpleData name="LONGITUDE">-79.39365854180</SimpleData>
+		<SimpleData name="LATITUDE">43.79013844920</SimpleData>
+		<SimpleData name="name">Emergency 56</SimpleData>
+		<SimpleData name="address">3300 BAYVIEW AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.393658541812812,43.790138449244452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">9796836</SimpleData>
+		<SimpleData name="X">303959.3400</SimpleData>
+		<SimpleData name="Y">4839897.8070</SimpleData>
+		<SimpleData name="LONGITUDE">-79.51023708120</SimpleData>
+		<SimpleData name="LATITUDE">43.70103811510</SimpleData>
+		<SimpleData name="name">Emergency 10</SimpleData>
+		<SimpleData name="address">2015 LAWRENCE AVE W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.510237081244014,43.701038115112958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">10313343</SimpleData>
+		<SimpleData name="X">320044.3110</SimpleData>
+		<SimpleData name="Y">4838366.5410</SimpleData>
+		<SimpleData name="LONGITUDE">-79.31071442240</SimpleData>
+		<SimpleData name="LATITUDE">43.68710025530</SimpleData>
+		<SimpleData name="name">Emergency 46</SimpleData>
+		<SimpleData name="address">105 CEDARVALE AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.310714422403223,43.687100255311059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">14627357</SimpleData>
+		<SimpleData name="X">300871.5520</SimpleData>
+		<SimpleData name="Y">4845870.4620</SimpleData>
+		<SimpleData name="LONGITUDE">-79.54859197930</SimpleData>
+		<SimpleData name="LATITUDE">43.75479088280</SimpleData>
+		<SimpleData name="name">Emergency 51</SimpleData>
+		<SimpleData name="address">61 TORYORK DR</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.548591979349112,43.754790882823556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">11048269</SimpleData>
+		<SimpleData name="X">321015.0760</SimpleData>
+		<SimpleData name="Y">4843086.4400</SimpleData>
+		<SimpleData name="LONGITUDE">-79.29853138130</SimpleData>
+		<SimpleData name="LATITUDE">43.72956508190</SimpleData>
+		<SimpleData name="name">Emergency 21</SimpleData>
+		<SimpleData name="address">887 PHARMACY AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.298531381328218,43.729565081897952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">13497638</SimpleData>
+		<SimpleData name="X">311139.6550</SimpleData>
+		<SimpleData name="Y">4832451.5700</SimpleData>
+		<SimpleData name="LONGITUDE">-79.42122354010</SimpleData>
+		<SimpleData name="LATITUDE">43.63404748670</SimpleData>
+		<SimpleData name="name">Emergency 35</SimpleData>
+		<SimpleData name="address">265 MANITOBA DR</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.421223540062115,43.634047486709257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">13498086</SimpleData>
+		<SimpleData name="X">311598.6100</SimpleData>
+		<SimpleData name="Y">4847856.4720</SimpleData>
+		<SimpleData name="LONGITUDE">-79.41535722330</SimpleData>
+		<SimpleData name="LATITUDE">43.77264674580</SimpleData>
+		<SimpleData name="name">Emergency 58</SimpleData>
+		<SimpleData name="address">12 CANTERBURY PL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.415357223343918,43.772646745808458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">14120188</SimpleData>
+		<SimpleData name="X">324425.8400</SimpleData>
+		<SimpleData name="Y">4841812.5440</SimpleData>
+		<SimpleData name="LONGITUDE">-79.25624031200</SimpleData>
+		<SimpleData name="LATITUDE">43.71801618930</SimpleData>
+		<SimpleData name="name">Emergency 47</SimpleData>
+		<SimpleData name="address">3600 ST CLAIR AVE E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.25624031203472,43.71801618932286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">14233307</SimpleData>
+		<SimpleData name="X">307478.9900</SimpleData>
+		<SimpleData name="Y">4837370.7520</SimpleData>
+		<SimpleData name="LONGITUDE">-79.46658074900</SimpleData>
+		<SimpleData name="LATITUDE">43.67828776390</SimpleData>
+		<SimpleData name="name">Emergency 30, District 3 Office</SimpleData>
+		<SimpleData name="address">100 TURNBERRY AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.466580749044709,43.678287763893259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">14245877</SimpleData>
+		<SimpleData name="X">331024.9390</SimpleData>
+		<SimpleData name="Y">4847703.3380</SimpleData>
+		<SimpleData name="LONGITUDE">-79.17405702160</SimpleData>
+		<SimpleData name="LATITUDE">43.77083736710</SimpleData>
+		<SimpleData name="name">Emergency 26</SimpleData>
+		<SimpleData name="address">4331 LAWRENCE AVE E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.174057021562021,43.77083736707695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">20110476</SimpleData>
+		<SimpleData name="X">329838.1070</SimpleData>
+		<SimpleData name="Y">4851487.8820</SimpleData>
+		<SimpleData name="LONGITUDE">-79.18862304870</SimpleData>
+		<SimpleData name="LATITUDE">43.80494330850</SimpleData>
+		<SimpleData name="name">Emergency 25</SimpleData>
+		<SimpleData name="address">8500 SHEPPARD AVE E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.188623048692534,43.804943308479849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">31355</SimpleData>
+		<SimpleData name="X">316833.9890</SimpleData>
+		<SimpleData name="Y">4839004.2650</SimpleData>
+		<SimpleData name="LONGITUDE">-79.35052160910</SimpleData>
+		<SimpleData name="LATITUDE">43.69289934130</SimpleData>
+		<SimpleData name="name">Emergency 41</SimpleData>
+		<SimpleData name="address">1300 PAPE AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.35052160914843,43.692899341332158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">351918</SimpleData>
+		<SimpleData name="X">323442.6710</SimpleData>
+		<SimpleData name="Y">4838583.6720</SimpleData>
+		<SimpleData name="LONGITUDE">-79.26855348290</SimpleData>
+		<SimpleData name="LATITUDE">43.68897742810</SimpleData>
+		<SimpleData name="name">Emergency 42, District 4 Office</SimpleData>
+		<SimpleData name="address">1535 KINGSTON RD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.268553482908715,43.688977428079959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">354400</SimpleData>
+		<SimpleData name="X">324643.9070</SimpleData>
+		<SimpleData name="Y">4845830.9640</SimpleData>
+		<SimpleData name="LONGITUDE">-79.25338653010</SimpleData>
+		<SimpleData name="LATITUDE">43.75418122290</SimpleData>
+		<SimpleData name="name">Emergency 28</SimpleData>
+		<SimpleData name="address">2900 LAWRENCE AVE E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.253386530049909,43.75418122288746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">851480</SimpleData>
+		<SimpleData name="X">317802.4660</SimpleData>
+		<SimpleData name="Y">4835665.4770</SimpleData>
+		<SimpleData name="LONGITUDE">-79.33858767560</SimpleData>
+		<SimpleData name="LATITUDE">43.66282950830</SimpleData>
+		<SimpleData name="name">Emergency 43</SimpleData>
+		<SimpleData name="address">126 PAPE AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.338587675606732,43.662829508280858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">982438</SimpleData>
+		<SimpleData name="X">297855.5390</SimpleData>
+		<SimpleData name="Y">4844265.3240</SimpleData>
+		<SimpleData name="LONGITUDE">-79.58602369260</SimpleData>
+		<SimpleData name="LATITUDE">43.74031981710</SimpleData>
+		<SimpleData name="name">Emergency 12</SimpleData>
+		<SimpleData name="address">1535 ALBION RD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.586023692559024,43.740319817109956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">1007854</SimpleData>
+		<SimpleData name="X">303054.3860</SimpleData>
+		<SimpleData name="Y">4829425.0010</SimpleData>
+		<SimpleData name="LONGITUDE">-79.52143041460</SimpleData>
+		<SimpleData name="LATITUDE">43.60676746090</SimpleData>
+		<SimpleData name="name">Emergency 38</SimpleData>
+		<SimpleData name="address">259 HORNER AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.521430414641316,43.606767460902056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">4236992</SimpleData>
+		<SimpleData name="X">325466.6360</SimpleData>
+		<SimpleData name="Y">4853590.5170</SimpleData>
+		<SimpleData name="LONGITUDE">-79.24287337370</SimpleData>
+		<SimpleData name="LATITUDE">43.82400366700</SimpleData>
+		<SimpleData name="name">Emergency 27</SimpleData>
+		<SimpleData name="address">900 TAPSCOTT RD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.242873373722617,43.824003667045055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">4435726</SimpleData>
+		<SimpleData name="X">307025.4900</SimpleData>
+		<SimpleData name="Y">4843490.7690</SimpleData>
+		<SimpleData name="LONGITUDE">-79.47218122390</SimpleData>
+		<SimpleData name="LATITUDE">43.73337730110</SimpleData>
+		<SimpleData name="name">Emergency 52</SimpleData>
+		<SimpleData name="address">170 PLEWES RD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.472181223855927,43.73337730114055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">4649972</SimpleData>
+		<SimpleData name="X">306815.7250</SimpleData>
+		<SimpleData name="Y">4838729.5030</SimpleData>
+		<SimpleData name="LONGITUDE">-79.47480198320</SimpleData>
+		<SimpleData name="LATITUDE">43.69052040090</SimpleData>
+		<SimpleData name="name">Emergency 19 Post</SimpleData>
+		<SimpleData name="address">2660 EGLINTON AVE W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.474801983178722,43.690520400856357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">5900028</SimpleData>
+		<SimpleData name="X">311785.8880</SimpleData>
+		<SimpleData name="Y">4836015.1800</SimpleData>
+		<SimpleData name="LONGITUDE">-79.41318000000</SimpleData>
+		<SimpleData name="LATITUDE">43.66604944400</SimpleData>
+		<SimpleData name="name">Emergency 34</SimpleData>
+		<SimpleData name="address">674 MARKHAM ST</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.41318,43.66604944399996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">7257537</SimpleData>
+		<SimpleData name="X">303818.8100</SimpleData>
+		<SimpleData name="Y">4835320.7440</SimpleData>
+		<SimpleData name="LONGITUDE">-79.51197044560</SimpleData>
+		<SimpleData name="LATITUDE">43.65983822080</SimpleData>
+		<SimpleData name="name">Emergency 31</SimpleData>
+		<SimpleData name="address">4219 DUNDAS ST W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.511970445554624,43.659838220843852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">7754918</SimpleData>
+		<SimpleData name="X">314545.4950</SimpleData>
+		<SimpleData name="Y">4842178.3320</SimpleData>
+		<SimpleData name="LONGITUDE">-79.37885424550</SimpleData>
+		<SimpleData name="LATITUDE">43.72150347520</SimpleData>
+		<SimpleData name="name">Emergency 57</SimpleData>
+		<SimpleData name="address">2075 BAYVIEW AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.378854245528615,43.721503475212458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">8166363</SimpleData>
+		<SimpleData name="X">311515.5240</SimpleData>
+		<SimpleData name="Y">4840076.8490</SimpleData>
+		<SimpleData name="LONGITUDE">-79.41648622530</SimpleData>
+		<SimpleData name="LATITUDE">43.70262065490</SimpleData>
+		<SimpleData name="name">Emergency 18</SimpleData>
+		<SimpleData name="address">643 EGLINTON AVE W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.416486225290811,43.702620654858357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">8313055</SimpleData>
+		<SimpleData name="X">314732.4300</SimpleData>
+		<SimpleData name="Y">4834506.0250</SimpleData>
+		<SimpleData name="LONGITUDE">-79.37667164700</SimpleData>
+		<SimpleData name="LATITUDE">43.65243135700</SimpleData>
+		<SimpleData name="name">Emergency 40</SimpleData>
+		<SimpleData name="address">58 RICHMOND ST E</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.376671646999924,43.652431356999955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">8417820</SimpleData>
+		<SimpleData name="X">310435.9000</SimpleData>
+		<SimpleData name="Y">4835531.4920</SimpleData>
+		<SimpleData name="LONGITUDE">-79.42992760530</SimpleData>
+		<SimpleData name="LATITUDE">43.66171556560</SimpleData>
+		<SimpleData name="name">Emergency 33</SimpleData>
+		<SimpleData name="address">760 DOVERCOURT RD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.429927605253908,43.66171556555166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">8823994</SimpleData>
+		<SimpleData name="X">317609.3220</SimpleData>
+		<SimpleData name="Y">4848061.6700</SimpleData>
+		<SimpleData name="LONGITUDE">-79.34068899760</SimpleData>
+		<SimpleData name="LATITUDE">43.77441505650</SimpleData>
+		<SimpleData name="name">Emergency 23</SimpleData>
+		<SimpleData name="address">115 PARKWAY FOREST DR</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.340688997562211,43.774415056477054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">8837366</SimpleData>
+		<SimpleData name="X">318115.1840</SimpleData>
+		<SimpleData name="Y">4837524.0130</SimpleData>
+		<SimpleData name="LONGITUDE">-79.33466456660</SimpleData>
+		<SimpleData name="LATITUDE">43.67955336230</SimpleData>
+		<SimpleData name="name">EMS Training</SimpleData>
+		<SimpleData name="address">153 CHATHAM AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.334664566619423,43.679553362258559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">8855496</SimpleData>
+		<SimpleData name="X">310416.2510</SimpleData>
+		<SimpleData name="Y">4833355.9940</SimpleData>
+		<SimpleData name="LONGITUDE">-79.43019296130</SimpleData>
+		<SimpleData name="LATITUDE">43.64213344020</SimpleData>
+		<SimpleData name="name">Emergency 37</SimpleData>
+		<SimpleData name="address">1288 QUEEN ST W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.43019296134203,43.64213344019845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">10367901</SimpleData>
+		<SimpleData name="X">301032.7000</SimpleData>
+		<SimpleData name="Y">4845885.0890</SimpleData>
+		<SimpleData name="LONGITUDE">-79.54659091730</SimpleData>
+		<SimpleData name="LATITUDE">43.75492340060</SimpleData>
+		<SimpleData name="name">Emergency District 1 Office</SimpleData>
+		<SimpleData name="address">50 TORYORK DR</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.546590917253525,43.754923400590151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">14069050</SimpleData>
+		<SimpleData name="X">313771.4340</SimpleData>
+		<SimpleData name="Y">4832867.1050</SimpleData>
+		<SimpleData name="LONGITUDE">-79.38861501100</SimpleData>
+		<SimpleData name="LATITUDE">43.63769966800</SimpleData>
+		<SimpleData name="name">Emergency 36</SimpleData>
+		<SimpleData name="address">339 QUEENS QUAY W</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.388615010999928,43.637699667999954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AMBULANCE_FACILITY_WGS84">
+		<SimpleData name="ADD_PT_ID">14076406</SimpleData>
+		<SimpleData name="X">316157.0290</SimpleData>
+		<SimpleData name="Y">4831505.5200</SimpleData>
+		<SimpleData name="LONGITUDE">-79.35907691060</SimpleData>
+		<SimpleData name="LATITUDE">43.62541064970</SimpleData>
+		<SimpleData name="name">Emergency 59</SimpleData>
+		<SimpleData name="address">235 CIBOLA AVE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.359076910632126,43.625410649681449</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
