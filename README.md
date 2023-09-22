@@ -1,4 +1,3 @@
-### Hi there 👋
 
 CODE2014: participated in a competition and implemented an Android mobile application that provides emergency assistance to any users.
 
