@@ -1,6 +1,10 @@
 
-participated in CODE2014 competition and implemented an Android mobile application that provides emergency assistance to any users.
-video link:
+
+1. participated in CODE2014 competition and implemented an Android mobile application that provides emergency assistance to any users.
+
+2. Android Java development
+
+3. video link:
 https://www.youtube.com/watch?v=paJedrn-bGI
 
 
